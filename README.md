@@ -1,8 +1,11 @@
 # timing-go-webui
 
-> timing-go web code by vue
+> timing-go 项目的前端代码
 
-## Build Setup
+## 介绍
+timing-go-webui 使用Vue2.0和element-ui2.x编写的前端代码，服务于TimingGo项目。
+
+### 1. 编译、打包和运行
 
 ``` bash
 # install dependencies
@@ -13,15 +16,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 2. 项目结构
